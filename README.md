@@ -11,7 +11,7 @@
 
 ## ✨ About me
 
-My name is Chau, a dedicated and detail-oriented software engineer with nearly 2 years of experience in front-end development. I am passionate about designing and developing core technologies to enhance user experiences across various platforms. With expertise in JavaScript, TypeScript, and React, I continuously cultivate my technical skills and problem-solving abilities, while staying eager to learn new technologies. I am excited to contribute to transformation projects and collaborate in a fast-paced, dynamic environment.
+Frontend Software Engineer with 3 years of experience building and maintaining scalable web applications using React.js and Next.js. Experienced in frontend architecture, system migration, web performance optimization, API integration, and responsive UI development. Strong background in TypeScript and modern state management, with hands-on experience collaborating across Product and Backend teams to deliver maintainable, production-ready systems. Experienced in leveraging AI-assisted development workflows for code migration, task planning, and automated testing while improving development efficiency and cost awareness.
 
 ## <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 
