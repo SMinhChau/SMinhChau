@@ -30,4 +30,4 @@ Frontend Software Engineer with 3 years of experience building and maintaining s
 <a href="https://postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-<p><a href="https://blog-d0l.pages.dev" target="blank">Let’s connect with me </p>
+<p><a href="https://nguyen-chau.uk" target="blank">Let’s connect with me </p>
